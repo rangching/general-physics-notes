@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="488.704218pt" height="311.526pt" viewBox="0 0 488.704218 311.526" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-23T12:02:31.189913</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 311.526 
+L 488.704218 311.526 
+L 488.704218 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 13.926429 267.886 
+L 426.846429 267.886 
+L 426.846429 23.95 
+L 13.926429 23.95 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m84863e5c00" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m84863e5c00" x="21.3" y="267.886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- $\mathdefault{10^{-15}}$ -->
+      <g transform="translate(7.2 286.526)">
+       <text>
+        <tspan x="0" y="-0.394" style="font-size: 12px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="6.648041" y="-0.394" style="font-size: 12px; font-family: 'Heiti TC'">0</tspan>
+        <tspan x="13.410925" y="-5.35" style="font-size: 8.4px; font-family: 'Heiti TC'">−</tspan>
+        <tspan x="18.50136" y="-5.35" style="font-size: 8.4px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="23.154988" y="-5.35" style="font-size: 8.4px; font-family: 'Heiti TC'">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m84863e5c00" x="58.167857" y="267.886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- $\mathdefault{10^{-10}}$ -->
+      <g transform="translate(44.067857 286.646)">
+       <text>
+        <tspan x="0" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="6.648041" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">0</tspan>
+        <tspan x="13.410925" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">−</tspan>
+        <tspan x="18.50136" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="23.154988" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m84863e5c00" x="95.035714" y="267.886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- $\mathdefault{10^{-5}}$ -->
+      <g transform="translate(83.275714 286.526)">
+       <text>
+        <tspan x="0" y="-0.394" style="font-size: 12px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="6.648041" y="-0.394" style="font-size: 12px; font-family: 'Heiti TC'">0</tspan>
+        <tspan x="13.410925" y="-5.35" style="font-size: 8.4px; font-family: 'Heiti TC'">−</tspan>
+        <tspan x="18.50136" y="-5.35" style="font-size: 8.4px; font-family: 'Heiti TC'">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m84863e5c00" x="131.903571" y="267.886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- $\mathdefault{10^{0}}$ -->
+      <g transform="translate(122.663571 286.646)">
+       <text>
+        <tspan x="0" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="6.648041" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">0</tspan>
+        <tspan x="13.410925" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m84863e5c00" x="168.771429" y="267.886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- $\mathdefault{10^{5}}$ -->
+      <g transform="translate(159.531429 286.526)">
+       <text>
+        <tspan x="0" y="-0.394" style="font-size: 12px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="6.648041" y="-0.394" style="font-size: 12px; font-family: 'Heiti TC'">0</tspan>
+        <tspan x="13.410925" y="-5.35" style="font-size: 8.4px; font-family: 'Heiti TC'">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m84863e5c00" x="205.639286" y="267.886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- $\mathdefault{10^{10}}$ -->
+      <g transform="translate(194.059286 286.646)">
+       <text>
+        <tspan x="0" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="6.648041" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">0</tspan>
+        <tspan x="13.410925" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="18.064554" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m84863e5c00" x="242.507143" y="267.886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- $\mathdefault{10^{15}}$ -->
+      <g transform="translate(230.927143 286.526)">
+       <text>
+        <tspan x="0" y="-0.394" style="font-size: 12px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="6.648041" y="-0.394" style="font-size: 12px; font-family: 'Heiti TC'">0</tspan>
+        <tspan x="13.410925" y="-5.35" style="font-size: 8.4px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="18.064554" y="-5.35" style="font-size: 8.4px; font-family: 'Heiti TC'">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m84863e5c00" x="279.375" y="267.886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- $\mathdefault{10^{20}}$ -->
+      <g transform="translate(267.795 286.646)">
+       <text>
+        <tspan x="0" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="6.648041" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">0</tspan>
+        <tspan x="13.410925" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">2</tspan>
+        <tspan x="18.064554" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m84863e5c00" x="316.242857" y="267.886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- $\mathdefault{10^{25}}$ -->
+      <g transform="translate(304.662857 286.646)">
+       <text>
+        <tspan x="0" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">1</tspan>
+        <tspan x="6.648041" y="-0.240875" style="font-size: 12px; font-family: 'Heiti TC'">0</tspan>
+        <tspan x="13.410925" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">2</tspan>
+        <tspan x="18.064554" y="-5.196875" style="font-size: 8.4px; font-family: 'Heiti TC'">5</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 12px; font-family: 'Heiti TC', 'PingFang TC', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="220.386429" y="302.646" transform="rotate(-0 220.386429 302.646)">長度（m，對數刻度：每一格差 10 萬倍）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="LineCollection_1">
+    <path d="M 13.926429 256.798 
+L 20.741668 256.798 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 234.622 
+L 56.128738 234.622 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 212.446 
+L 80.288571 212.446 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 190.27 
+L 94.11447 190.27 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 168.094 
+L 133.602803 168.094 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 145.918 
+L 151.855451 145.918 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 123.742 
+L 182.074882 123.742 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 101.566 
+L 214.302728 101.566 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 79.39 
+L 249.703274 79.39 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 57.214 
+L 286.571131 57.214 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+    <path d="M 13.926429 35.038 
+L 328.360973 35.038 
+" clip-path="url(#pfca35d2517)" style="fill: none; stroke: #e5e7eb; stroke-width: 6"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 13.926429 267.886 
+L 426.846429 267.886 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m71537c847c" d="M 0 3.872983 
+C 1.027127 3.872983 2.012324 3.464901 2.738613 2.738613 
+C 3.464901 2.012324 3.872983 1.027127 3.872983 0 
+C 3.872983 -1.027127 3.464901 -2.012324 2.738613 -2.738613 
+C 2.012324 -3.464901 1.027127 -3.872983 0 -3.872983 
+C -1.027127 -3.872983 -2.012324 -3.464901 -2.738613 -2.738613 
+C -3.464901 -2.012324 -3.872983 -1.027127 -3.872983 0 
+C -3.872983 1.027127 -3.464901 2.012324 -2.738613 2.738613 
+C -2.012324 3.464901 -1.027127 3.872983 0 3.872983 
+z
+" style="stroke: #2b8fb3"/>
+    </defs>
+    <g clip-path="url(#pfca35d2517)">
+     <use xlink:href="#m71537c847c" x="20.741668" y="256.798" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="56.128738" y="234.622" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="80.288571" y="212.446" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="94.11447" y="190.27" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="133.602803" y="168.094" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="151.855451" y="145.918" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="182.074882" y="123.742" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="214.302728" y="101.566" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="249.703274" y="79.39" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="286.571131" y="57.214" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+     <use xlink:href="#m71537c847c" x="328.360973" y="35.038" style="fill: #2b8fb3; stroke: #2b8fb3"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <!-- 質子半徑　$\sim10^{-16}$ m -->
+    <g style="fill: #1f2937" transform="translate(24.259756 260.998)">
+     <text>
+      <tspan x="0" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">質</tspan>
+      <tspan x="10.499954" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">子</tspan>
+      <tspan x="20.999908" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">半</tspan>
+      <tspan x="31.499863" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">徑</tspan>
+      <tspan x="41.999817" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="94.648453" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="97.273438" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="54.545425" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="65.388931" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="72.069351" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="78.850259" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">−</tspan>
+      <tspan x="85.008755" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="89.685049" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">6</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_12">
+    <!-- 氫原子半徑　$\sim10^{-11}$ m -->
+    <g style="fill: #1f2937" transform="translate(59.646825 238.7695)">
+     <text>
+      <tspan x="0" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">氫</tspan>
+      <tspan x="10.499954" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">原</tspan>
+      <tspan x="20.999908" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">子</tspan>
+      <tspan x="31.499863" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">半</tspan>
+      <tspan x="41.999817" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">徑</tspan>
+      <tspan x="52.499771" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="105.148407" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="107.773392" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="65.04538" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="75.888885" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="82.569305" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="89.350214" y="-4.640625" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">−</tspan>
+      <tspan x="95.50871" y="-4.640625" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="100.185004" y="-4.640625" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- 病毒（約 100 nm）　$\sim10^{-7}$ m -->
+    <g style="fill: #1f2937" transform="translate(83.806659 216.5935)">
+     <text>
+      <tspan x="0" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">病</tspan>
+      <tspan x="10.499954" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">毒</tspan>
+      <tspan x="20.999908" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">（</tspan>
+      <tspan x="31.499863" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">約</tspan>
+      <tspan x="41.999817" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="44.624802" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">1</tspan>
+      <tspan x="50.441772" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">0</tspan>
+      <tspan x="56.258743" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">0</tspan>
+      <tspan x="62.075714" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="64.700699" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">n</tspan>
+      <tspan x="71.105667" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="80.95462" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">）</tspan>
+      <tspan x="91.454575" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="139.426917" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="142.051901" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="104.000183" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="114.843689" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="121.524109" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="128.305017" y="-4.640625" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">−</tspan>
+      <tspan x="134.463513" y="-4.640625" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">7</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- 紅血球直徑　$\sim10^{-6}$ m -->
+    <g style="fill: #1f2937" transform="translate(97.632557 194.47)">
+     <text>
+      <tspan x="0" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">紅</tspan>
+      <tspan x="10.499954" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">血</tspan>
+      <tspan x="20.999908" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">球</tspan>
+      <tspan x="31.499863" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">直</tspan>
+      <tspan x="41.999817" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">徑</tspan>
+      <tspan x="52.499771" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="100.472113" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="103.097098" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="65.04538" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="75.888885" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="82.569305" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="89.350214" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">−</tspan>
+      <tspan x="95.50871" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">6</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- 人的身高　$\sim10^{0}$ m -->
+    <g style="fill: #1f2937" transform="translate(137.120891 172.294)">
+     <text>
+      <tspan x="0" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">人</tspan>
+      <tspan x="10.499954" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">的</tspan>
+      <tspan x="20.999908" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">身</tspan>
+      <tspan x="31.499863" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">高</tspan>
+      <tspan x="41.999817" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="83.813663" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="86.438647" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="54.545425" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="65.388931" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="72.069351" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="78.850259" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- 臺北 101 高度　$\sim10^{2}$ m -->
+    <g style="fill: #1f2937" transform="translate(155.373538 150.118)">
+     <text>
+      <tspan x="0" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">臺</tspan>
+      <tspan x="10.499954" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">北</tspan>
+      <tspan x="20.999908" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="23.624893" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">1</tspan>
+      <tspan x="29.441864" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">0</tspan>
+      <tspan x="35.258835" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">1</tspan>
+      <tspan x="41.075806" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="43.70079" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">高</tspan>
+      <tspan x="54.200745" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">度</tspan>
+      <tspan x="64.700699" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="106.514545" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="109.139529" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="77.246307" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="88.089813" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="94.770233" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="101.551141" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- 地球半徑　$\sim10^{6}$ m -->
+    <g style="fill: #1f2937" transform="translate(185.59297 127.942)">
+     <text>
+      <tspan x="0" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">地</tspan>
+      <tspan x="10.499954" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">球</tspan>
+      <tspan x="20.999908" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">半</tspan>
+      <tspan x="31.499863" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">徑</tspan>
+      <tspan x="41.999817" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="83.813663" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="86.438647" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="54.545425" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="65.388931" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="72.069351" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="78.850259" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">6</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- 地球到太陽　$\sim10^{11}$ m -->
+    <g style="fill: #1f2937" transform="translate(217.820815 105.7135)">
+     <text>
+      <tspan x="0" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">地</tspan>
+      <tspan x="10.499954" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">球</tspan>
+      <tspan x="20.999908" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">到</tspan>
+      <tspan x="31.499863" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">太</tspan>
+      <tspan x="41.999817" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">陽</tspan>
+      <tspan x="52.499771" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="98.989911" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="101.614896" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="65.04538" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="75.888885" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="82.569305" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="89.350214" y="-4.640625" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="94.026508" y="-4.640625" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_19">
+    <!-- 1 光年　$\sim10^{15}$ m -->
+    <g style="fill: #1f2937" transform="translate(253.221361 83.5375)">
+     <text>
+      <tspan x="0" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">1</tspan>
+      <tspan x="5.816971" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="8.441956" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">光</tspan>
+      <tspan x="18.94191" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">年</tspan>
+      <tspan x="29.441864" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="75.932004" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="78.556989" y="-0.304125" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="41.987473" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="52.830978" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="59.511398" y="-0.304125" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="66.292307" y="-4.640625" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="70.9686" y="-4.640625" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">5</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- 銀河系直徑（約 10 萬光年）　$\sim10^{20}$ m -->
+    <g style="fill: #1f2937" transform="translate(290.089218 61.414)">
+     <text>
+      <tspan x="0" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">銀</tspan>
+      <tspan x="10.499954" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">河</tspan>
+      <tspan x="20.999908" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">系</tspan>
+      <tspan x="31.499863" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">直</tspan>
+      <tspan x="41.999817" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">徑</tspan>
+      <tspan x="52.499771" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">（</tspan>
+      <tspan x="62.999725" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">約</tspan>
+      <tspan x="73.49968" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="76.124664" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">1</tspan>
+      <tspan x="81.941635" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">0</tspan>
+      <tspan x="87.758606" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="90.383591" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">萬</tspan>
+      <tspan x="100.883545" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">光</tspan>
+      <tspan x="111.383499" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">年</tspan>
+      <tspan x="121.883453" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">）</tspan>
+      <tspan x="132.383408" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="178.873547" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="181.498532" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="144.929016" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="155.772522" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="162.452942" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="169.23385" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">2</tspan>
+      <tspan x="173.910144" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_21">
+    <!-- 可觀測宇宙半徑　$\sim10^{26}$ m -->
+    <g style="fill: #1f2937" transform="translate(331.87906 39.238)">
+     <text>
+      <tspan x="0" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">可</tspan>
+      <tspan x="10.499954" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">觀</tspan>
+      <tspan x="20.999908" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">測</tspan>
+      <tspan x="31.499863" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">宇</tspan>
+      <tspan x="41.999817" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">宙</tspan>
+      <tspan x="52.499771" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">半</tspan>
+      <tspan x="62.999725" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">徑</tspan>
+      <tspan x="73.49968" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">　</tspan>
+      <tspan x="119.989819" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937"> </tspan>
+      <tspan x="122.614804" y="-0.205687" style="font-size: 10.5px; font-family: 'Heiti TC'; fill: #1f2937">m</tspan>
+      <tspan x="86.045288" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">∼</tspan>
+      <tspan x="96.888794" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">1</tspan>
+      <tspan x="103.569214" y="-0.205687" style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #1f2937">0</tspan>
+      <tspan x="110.350122" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">2</tspan>
+      <tspan x="115.026416" y="-4.542187" style="font-size: 7.35px; font-family: 'DejaVu Sans'; fill: #1f2937">6</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 12.5px; font-family: 'Heiti TC', 'PingFang TC', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #1f2937" x="220.386429" y="17.95" transform="rotate(-0 220.386429 17.95)">從質子到可觀測宇宙：約 42 個數量級</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfca35d2517">
+   <rect x="13.926429" y="23.95" width="412.92" height="243.936"/>
+  </clipPath>
+ </defs>
+</svg>
