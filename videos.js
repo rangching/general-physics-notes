@@ -28,7 +28,7 @@ window.VIDEO_LINKS = {
   u17: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
   u18: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
   u19: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
-  u20: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
+  u20: { youtube: "YcewlCaOoD0", mp4: "", duration: "", sections: [0, 10, 86.8, 170.6, 300.5, 385, 495.1, 593.3, 701.4, 827.3], noVoice: "", short: "" },
   u21: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
   u22: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
   u23: { youtube: "", mp4: "", duration: "", sections: null, noVoice: "", short: "" },
